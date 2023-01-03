@@ -1,1 +1,2 @@
-# Liu-Peque-a-escena-con-vectores
+# Pequeña-escena-con-vectores
+Este es un ejercicio del curso de Coderhouse
